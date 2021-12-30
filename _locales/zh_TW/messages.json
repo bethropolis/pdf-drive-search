@@ -1,0 +1,15 @@
+﻿{
+	"locale": {
+		"message": "zh-TW",
+		"description": "Chinese (Traditional, Taiwan)"
+	},
+	"title": {
+		"message": "Search on PDF drive"
+	},
+	"description": {
+		"message": "Use the context menu (right click) to search on PDF drive (www.pdfdrive.com) any text from other websites."
+	},
+	"menuText": {
+		"message": "透過 PDF drive 搜尋「%s」"
+	}
+}

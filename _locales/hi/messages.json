@@ -1,0 +1,12 @@
+﻿{
+	"locale": {
+		"message": "hi",
+		"description": "Hindi"
+	},
+	"description": {
+		"message": "Use the context menu (right click) to search on PDF drive (www.pdfdrive.com) any text from other websites."
+	},
+	"title": {
+		"message": "“%s” को खोजने के लिए PDF drive पर खोजें"
+	}
+}

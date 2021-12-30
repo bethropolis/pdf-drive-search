@@ -1,0 +1,12 @@
+﻿{
+	"locale": {
+		"message": "ml",
+		"description": "Malay"
+	},
+	"description": {
+		"message": "Use the context menu (right click) to search on PDF drive (www.pdfdrive.com) any text from other websites."
+	},
+	"title": {
+		"message": "'%s' എന്നതിനായി PDF drive-ൽ തിരയുക"
+	}
+}

@@ -1,0 +1,12 @@
+﻿{
+	"locale": {
+		"message": "de",
+		"description": "German"
+	},
+	"description": {
+		"message": "Verwenden Sie das Kontextmenü (Rechtsklick), um auf PDF drive (www.pdfdrive.com) einen beliebigen Text von anderen Webseiten zu durchsuchen."
+	},
+	"title": {
+		"message": "PDF drive nach \"%s\" durchsuchen"
+	}
+}

@@ -1,0 +1,12 @@
+﻿{
+	"locale": {
+		"message": "ko",
+		"description": "Korean"
+	},
+	"description": {
+		"message": "Use the context menu (right click) to search on PDF drive (www.pdfdrive.com) any text from other websites."
+	},
+	"title": {
+		"message": "PDF drive에서 '%s' 검색"
+	}
+}

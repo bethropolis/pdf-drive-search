@@ -1,0 +1,15 @@
+﻿{
+	"locale": {
+		"message": "it",
+		"description": "Italian"
+	},
+	"title": {
+		"message": "Ricerca su PDF drive"
+	},
+	"description": {
+		"message": "Utilizzare il menu contestuale (tasto destro del mouse) per cercare su PDF drive (www.pdfdrive.com) qualsiasi testo da altri siti web."
+	},
+	"menuText": {
+		"message": "Cerca \"%s\" su PDF drive"
+	}
+}

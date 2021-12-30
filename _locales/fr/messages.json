@@ -1,0 +1,12 @@
+﻿{
+	"locale": {
+		"message": "fr",
+		"description": "French"
+	},
+	"description": {
+		"message": "Utilisez le menu contextuel (clic droit) pour rechercher sur PDF drive (www.pdfdrive.com) tout texte provenant d'autres sites Web."
+	},
+	"title": {
+		"message": "Rechercher \"%s\" sur  PDF drive"
+	}
+}

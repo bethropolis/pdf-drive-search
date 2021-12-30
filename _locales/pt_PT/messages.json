@@ -1,0 +1,12 @@
+﻿{
+	"locale": {
+		"message": "pt-PT",
+		"description": "Portugese (Portugal)"
+	},
+	"description": {
+		"message": "Use o menu de contexto (clique direito) para pesquisar no PDF drive (www.pdfdrive.com) qualquer texto de outros sites."
+	},
+	"title": {
+		"message": "Pesquisar no PDF drive por \"%s\""
+	}
+}

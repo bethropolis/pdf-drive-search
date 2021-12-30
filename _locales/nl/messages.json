@@ -1,0 +1,12 @@
+﻿{
+	"locale": {
+		"message": "nl",
+		"description": "Dutch"
+	},
+	"description": {
+		"message": "Gebruik het contextmenu (klik met de rechtermuisknop) om te zoeken op PDF drive (www.pdfdrive.com) een tekst van andere websites."
+	},
+	"title": {
+		"message": "PDF drive doorzoeken op '%s'"
+	}
+}

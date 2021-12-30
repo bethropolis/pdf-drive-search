@@ -1,0 +1,15 @@
+﻿{
+	"locale": {
+		"message": "es",
+		"description": "Spanish"
+	},
+	"title": {
+		"message": "Buscar en PDF drive"
+	},
+	"description": {
+		"message": "Utilice el menú contextual (clic derecho) para buscar en PDF drive (www.pdfdrive.com) cualquier texto de otros sitios web."
+	},
+	"menuText": {
+		"message": "Buscar \"%s\" en PDF drive"
+	}
+}

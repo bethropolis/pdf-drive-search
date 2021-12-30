@@ -1,0 +1,15 @@
+﻿{
+	"locale": {
+		"message": "zh-CN",
+		"description": "Chinese (Simplified)"
+	},
+	"title": {
+		"message": "Search on PDF drive"
+	},
+	"description": {
+		"message": "Use the context menu (right click) to search on PDF drive (www.pdfdrive.com) any text from other websites."
+	},
+	"menuText": {
+		"message": "使用PDF drive搜索“%s”"
+	}
+}

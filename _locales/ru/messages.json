@@ -1,0 +1,12 @@
+﻿{
+	"locale": {
+		"message": "ru",
+		"description": "Russian"
+	},
+	"description": {
+		"message": "Используйте контекстное меню (правый щелчок), чтобы искать на PDF drive (www.pdfdrive.com) любой текст с других сайтов."
+	},
+	"title": {
+		"message": "Найти \"%s\" в PDF drive"
+	}
+}

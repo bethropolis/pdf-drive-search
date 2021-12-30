@@ -1,0 +1,12 @@
+﻿{
+	"locale": {
+		"message": "vi",
+		"description": "Vietnamese"
+	},
+	"description": {
+		"message": "Use the context menu (right click) to search on PDF drive (www.pdfdrive.com) any text from other websites."
+	},
+	"title": {
+		"message": "Tìm kiếm trên PDF drive cho “%s”"
+	}
+}

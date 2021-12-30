@@ -1,0 +1,12 @@
+﻿{
+	"locale": {
+		"message": "pl",
+		"description": "Polish"
+	},
+	"description": {
+		"message": "Za pomocą menu kontekstowego (prawy przycisk myszy), aby wyszukać na PDF drive (www.pdfdrive.com) dowolny tekst z innych witryn."
+	},
+	"title": {
+		"message": "Wyszukaj „%s” w PDF drive"
+	}
+}
